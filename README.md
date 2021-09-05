@@ -1,2 +1,2 @@
 # matrix_project
-Provides simple functions for operating with matrices in C
+Provides simple functions for operating with matrices in C.
